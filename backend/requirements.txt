@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+ollama
+python-dotenv
+asyncpg
+PyJWT
+bcrypt
